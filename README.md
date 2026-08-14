@@ -10,4 +10,4 @@ NVIDIA Data Center GPU Manager (DCGM) suite of Grafana Dashboards focused monito
 
 ## 3x Way SLI GTX GPU Dashboard
 
-[3x Way SLI GTX GPU Dashboard](docs/nvidia-dcgm-3x-sli-screenshot.png)
+![3x Way SLI GTX GPU Dashboard](docs/nvidia-dcgm-3x-sli-screenshot.png)
